@@ -1,0 +1,46 @@
+input{
+    width: 400px;
+    height: 30px;
+    margin-left: 18%;
+    border: solid black;
+    border-width: 2px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 17px;
+}
+button{
+    background-color: green;
+    border-radius: 5px;
+    font-size: 16px;
+    display: block;
+    margin-left: 40%;
+    height: 40px;
+    width: 20%;
+    border: none;
+}
+div{
+    margin-left: 42%;
+    color: goldenrod;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    color: green;
+    margin-left: 17%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+}
+body{
+    background-color: black;
+}
+section{
+    margin-top: 15%;
+    margin-left: 30%;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: solid rgb(65, 65, 65);
+    width: 40%;
+    height: 35vh;
+}
+p{
+    margin-left: 40%;
+}
